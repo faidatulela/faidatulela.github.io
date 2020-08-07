@@ -1,0 +1,20 @@
+.jumbotron{
+	background-image:url(../image/jumbo.png);
+	background-size:cover;
+	height:700px;
+	margin-top:-75px;
+	text-align: center;
+}
+.jumbotron .display-4{
+	margin-top:200px;
+	color:white;
+}
+.jumbotron .btn{
+	background-color: #FFA500;
+	border: none;
+	border-radius: 25px;
+}
+.nav-link ,.navbar-brand{
+	color: white !important;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.10);
+}
